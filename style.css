@@ -107,7 +107,7 @@ img{
     text-align: center;
     padding: 20px;
     box-shadow: 10px 10px 35px #333;
-    height: 80%;
+    height: 70%;
 }
 .boxmargin{
     margin: 0 3%;
@@ -125,6 +125,70 @@ img{
     color:rgb(53, 53, 53);
     padding-bottom:30px ;
 }
+.eduarea{
+    padding:5%;
+    height: 600px;
+}
+.boxedu{
+    float: left;
+    width: 30%;
+    text-align: center;
+}
+.margin{
+    margin:0 5%;
+}
+.boxedu .inbox{
+    width: 100%;
+    border-radius:20px;
+    background-color: rgb(255, 255, 255);
+    box-shadow: 5px 5px 30px rgb(134, 134, 134);
+    overflow: hidden;
+    height: 40%;
+}
+.boxedu .inbox .year{
+    background-color: #01A6DB;
+    padding: 10px 0;
+    color: #fff;
+}
+.boxedu .inbox h2{
+    margin-top: 10px;
+    color:#01A6DB;
+}
+.boxedu .inbox p{
+    padding: 15px 30px;
+}
+.boxedu a .fas{
+    color:#01A6DB;
+    font-size: 60px;
+    display: inline-block;
+    padding-bottom: 20px;
+}
+.boxedu .eduabout{
+    margin-top: 20px;
+    width: 100%;
+    padding: 15px 30px;
+    border-radius:40px 0px 40px 0px;
+    background-color: #01A6DB;
+    box-shadow: 5px 5px 30px rgb(134, 134, 134);
+    color: #fff;
+} 
+.boxedu .eduabout h3{
+    font-size: 30px;
+}
+.boxedu .icon{
+    margin-top: 20px;
+    width: 100%;
+    padding: 15px 30px;
+    border-radius:70px;
+    background-color: #01A6DB;
+    box-shadow: 5px 5px 30px rgb(134, 134, 134);
+    color: #fff;
+    display: inline-block;
+    text-decoration:none;
+}
+
+
+
 .footerarea{
     padding: 100px 220px;
     text-align: center;
