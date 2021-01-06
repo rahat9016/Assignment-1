@@ -23,7 +23,6 @@ body{
     font-size: 16px;
 }
 section{
-    overflow: hidden;
     padding:10px 0;
 }
 .half-div{
@@ -34,6 +33,7 @@ section{
 }
 .toparea{
     background:#2980b9;
+    height: 700px;
 }
 .toparea h1{
     color:#fff;
@@ -67,6 +67,7 @@ img{
     background-image: url(img/shape2.png);
     background-repeat: no-repeat;
     background-position: right bottom;
+    height: 700px;
 }
 .aboutarea h1{
     font-size: 60px;
@@ -82,7 +83,7 @@ img{
     background-color: #1995ce;
     background-image: url(img/back.png);
     padding: 80px 2% 80px 100px;
-    
+    height: 800px;
 }
 .workitem{
     text-align: center;
@@ -106,6 +107,7 @@ img{
     text-align: center;
     padding: 20px;
     box-shadow: 10px 10px 35px #333;
+    height: 80%;
 }
 .boxmargin{
     margin: 0 3%;
