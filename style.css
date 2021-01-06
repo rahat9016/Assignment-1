@@ -125,7 +125,7 @@ img{
 }
 .footerarea{
     padding: 100px 220px;
-    
+    text-align: center;
 }
 .inneritem{
     background-image: url(img/shape3.png);
@@ -152,5 +152,28 @@ img{
     padding: 10px 25px;
     border-radius: 5px;
     text-decoration: none;
-
+}
+.innercontact{
+    margin-top: 40px;
+}
+.innercontact h3{
+    color:#696871;
+    text-transform: uppercase;
+}
+.innercontact h1{
+    color:#363958;
+    font-size: 36px;
+}
+.imgbox img{
+    width: 40px;
+    margin: 20px 5px;
+}
+footer{
+    box-shadow: 0 10px 35px #333;
+    padding: 10px  0;
+    background: #3598DB;
+}
+footer p{
+    text-align: center;
+    color: #fff;
 }
