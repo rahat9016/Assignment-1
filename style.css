@@ -123,3 +123,34 @@ img{
     color:rgb(53, 53, 53);
     padding-bottom:30px ;
 }
+.footerarea{
+    padding: 100px 220px;
+    
+}
+.inneritem{
+    background-image: url(img/shape3.png);
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+    width: 70%;
+    height: 300px;
+    margin: 0 auto;
+}  
+.inneritem h1{
+    float: left;
+    margin-top: 10.5%;
+    margin-left:50px;
+    color: #fff;
+    font-size: 40px;
+    text-transform: uppercase;
+}
+.inneritem a{
+    float: right;
+    margin-top: 10.5%;
+    margin-right: 50px;
+    color: #fff;
+    background: linear-gradient(#FF8063,rgb(255, 109, 93));
+    padding: 10px 25px;
+    border-radius: 5px;
+    text-decoration: none;
+
+}
